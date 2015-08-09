@@ -1,1 +1,3 @@
 hello i am file B
+
+adding another line in B fil e
