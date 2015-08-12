@@ -1,1 +1,7 @@
+
+C
+hello friend this is going to be a change in BR_CodeDevelpmen strea/branch 
+
+this would lead me to move forward in branching and merging
+
 Hello i am C file
